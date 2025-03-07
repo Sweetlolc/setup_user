@@ -1,4 +1,3 @@
-cat > setup.py << 'EOF'
 from setuptools import setup, find_packages
 
 setup(
@@ -19,4 +18,3 @@ setup(
     url="https://github.com/Sweetlolc/setup_user",
     license="MIT",
 )
-EOF
